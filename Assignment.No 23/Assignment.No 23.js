@@ -1,0 +1,12 @@
+"use strict";
+let car = "tesla";
+console.log("is car not equal to tesla result", car == "BMW");
+console.log("is car equal to tesla result", car == "tesla");
+console.log("is car equal to tesla result", car !== "Toyota");
+console.log("is car not equal to BRV result", car == "mercedes");
+console.log("is car equal to tesla result", car !== "ford");
+console.log("is car equal to tesla result", car == "Rolls Royes");
+console.log("is car equal to tesla result", car == "fourtuner");
+console.log("is car equal to tesla result", car > "Supra");
+console.log("is car equal to tesla result", car < "Maclearn");
+console.log("is car equal to tesla result", car !== "rangerover");
